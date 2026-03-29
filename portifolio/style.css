@@ -1,0 +1,10 @@
+.avatar-img {
+  width: 220px;
+  height: 220px;
+  border-radius: 20px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+  border: 3px solid rgba(255,255,255,0.2);
+  box-shadow: 0 10px 40px rgba(96,165,250,0.4);
+}
